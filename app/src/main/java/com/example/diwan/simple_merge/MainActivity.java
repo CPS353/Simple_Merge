@@ -12,6 +12,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void masterMethod(){
-        
+
+    }
+
+    public void branch(){
+        //This function need to be merged.
     }
 }
